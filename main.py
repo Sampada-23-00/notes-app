@@ -427,8 +427,8 @@ def revert_note(
 @app.get("/about")
 def about():
     return {
-        "name": "Piyush Agarwal",
-        "email": "piyush@example.com",
+        "name": "Sampada Waghode",
+        "email": "sampada.waghode@gmail.com",
         "my features": {
             "Note Version History": (
                 "Every PUT /notes/{id} automatically snapshots the previous content before "
